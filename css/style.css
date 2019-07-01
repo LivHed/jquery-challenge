@@ -49,3 +49,13 @@ Navigation
   border: solid 5px #ccc;
 }
 
+
+/*button*/
+
+.makeRed {
+	background-color: red;
+}
+
+.makeBorder {
+	border: 2px;
+}
